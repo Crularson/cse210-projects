@@ -35,7 +35,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("You'll need to try harder on your homework next time...")
+            Console.WriteLine("You'll need to try harder on your homework next time...");
         }
     }
 }
