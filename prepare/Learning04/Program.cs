@@ -14,5 +14,7 @@ class Program
 
         WritingAssignment english = new WritingAssignment("Cru Larson", "Historical Analysis", "World History and Me");
         Console.WriteLine(english.GetWritingInformation());
+
+       
     }
 }
