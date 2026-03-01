@@ -41,8 +41,7 @@ public class Breathing : Activity
     public void Run()
     {
         DateTime endTime = GetEndTime();
-        Console.WriteLine(DisplayWelcome());
-        Console.WriteLine(DisplayDesc());
+        Welcome();
 
         Countdown();
         
